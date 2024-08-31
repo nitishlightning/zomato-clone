@@ -25,9 +25,11 @@ This repository contains a front-end clone of the Zomato website. The project sh
 2. Open the `index.html` file in your web browser.
 
 ## Screenshots
-![Screenshot (25)](https://github.com/user-attachments/assets/26b0ecaa-1510-452b-8f79-052b6534c2e0)
-![Screenshot (24)](https://github.com/user-attachments/assets/b818cb24-db9a-4031-a448-2396a1518111)
+
 ![Screenshot (23)](https://github.com/user-attachments/assets/6be41c12-5ca0-4725-ab8d-c01bbcc6d854)
+![Screenshot (24)](https://github.com/user-attachments/assets/b818cb24-db9a-4031-a448-2396a1518111)
+![Screenshot (25)](https://github.com/user-attachments/assets/26b0ecaa-1510-452b-8f79-052b6534c2e0)
+
 
 
 
